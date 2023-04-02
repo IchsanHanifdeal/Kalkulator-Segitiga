@@ -31,5 +31,5 @@ Aplikasi kalkulator segitiga sederhana yang dibuat menggunakan Android Studio. A
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah lisensi **[LICENSE](https://github.com/IchsanHanifdeal/Kalkulator-Segitiga/blob/main/LICENSE)**
+Proyek ini dilisensikan di bawah lisensi **[MIT](https://github.com/IchsanHanifdeal/Kalkulator-Segitiga/blob/main/LICENSE)**
 .
