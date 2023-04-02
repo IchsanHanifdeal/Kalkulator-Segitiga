@@ -11,8 +11,10 @@ Aplikasi kalkulator segitiga sederhana yang dibuat menggunakan Android Studio. A
 
 ## Screenshot Aplikasi
 
-![Welcome Screen](https://github.com/IchsanHanifdeal/Kalkulator-Segitiga/blob/main/ScreenShots/01.png)
-![Main Screen](https://github.com/IchsanHanifdeal/Kalkulator-Segitiga/blob/main/ScreenShots/02.png)
+ <div align="center">
+  <img src="welcome.png" alt="Welcome Screen" width="500"/>
+</div>
+
 
 ## Teknologi yang Digunakan
 
