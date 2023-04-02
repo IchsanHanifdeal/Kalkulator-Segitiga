@@ -11,8 +11,8 @@ Aplikasi kalkulator segitiga sederhana yang dibuat menggunakan Android Studio. A
 
 ## Screenshot Aplikasi
 
-![Welcome Screen] (ScreenShots/01.png "Welcome Screen")
-![Main Screen] (ScreenShots/02.png "Main Screen")
+![Welcome Screen](https://github.com/IchsanHanifdeal/Kalkulator-Segitiga/blob/main/ScreenShots/01.png)
+![Main Screen](https://github.com/IchsanHanifdeal/Kalkulator-Segitiga/blob/main/ScreenShots/02.png)
 
 ## Teknologi yang Digunakan
 
@@ -31,4 +31,5 @@ Aplikasi kalkulator segitiga sederhana yang dibuat menggunakan Android Studio. A
 
 ## Lisensi
 
-Proyek ini dilisensikan di bawah lisensi MIT.
+Proyek ini dilisensikan di bawah lisensi **[LICENSE](https://github.com/IchsanHanifdeal/Kalkulator-Segitiga/blob/main/LICENSE)**
+.
